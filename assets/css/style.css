@@ -17,8 +17,16 @@ button {
     padding: 10px 20px;
     cursor: pointer;
     margin-top: 20px;
+    border-radius: 30px;
 }
 
 button:hover {
     background-color: #FFDF80;
+}
+
+#result {
+    margin-top: 50px;
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
 }

@@ -1,18 +1,18 @@
 body {
-    background-color: #FBE0B5;
+    background-color: #fddf2f;
     font-family: "Comic Sans MS", cursive, sans-serif;
     text-align: center;
 }
 
 h1 {
     color: #D52B1E;
-    font-size: 40px;
+    font-size: 60px;
 }
 
 button {
-    background-color: #FFD700;
+    background-color: #e10079;
     border: none;
-    color: #D52B1E;
+    color: white;
     font-size: 20px;
     padding: 10px 20px;
     cursor: pointer;
@@ -21,10 +21,12 @@ button {
 }
 
 button:hover {
-    background-color: #FFDF80;
+    color: yellow;
 }
 
 #result {
+    background-color: white;
+    border-radius: 30px;
     margin-top: 50px;
     color: red;
     font-size: 30px;
